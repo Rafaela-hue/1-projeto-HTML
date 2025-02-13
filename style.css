@@ -7,7 +7,12 @@ body{
      color:crimson;
  }    
 
-.felinos {
+ .felinos_header{
+     width: 20%
+     border-radius:10xp
+}
+
+.felinos{
 .width: 50%
 border-radius: 10px;
 }
