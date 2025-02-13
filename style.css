@@ -1,6 +1,11 @@
 body{
-     background-color: rgb(241, 130, 213);
+     background-color: #cccccc;
 }
+
+.titulo{
+     front-size: 40xp;
+     color:crimson;
+ }    
 
 .felino{
 width: 53%;
